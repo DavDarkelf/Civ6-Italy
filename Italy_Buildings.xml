@@ -2,15 +2,15 @@
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <GameInfo>
 	<Types>
-		<Row Type="BUILDING_STELE" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_ARCH" Kind="KIND_BUILDING"/>
 	</Types>
 	<BuildingReplaces>
-		<Row CivUniqueBuildingType="BUILDING_STELE" ReplacesBuildingType="BUILDING_MONUMENT"/>
+		<Row CivUniqueBuildingType="BUILDING_ARCH" ReplacesBuildingType="BUILDING_MONUMENT"/>
 	</BuildingReplaces>
 	<Buildings>
-		<Row BuildingType="BUILDING_STELE" Name="LOC_BUILDING_STELE_NAME" Description="LOC_BUILDING_STELE_DESCRIPTION" PrereqDistrict="DISTRICT_CITY_CENTER" PurchaseYield="YIELD_GOLD" Cost="60" Housing="2" TraitType="TRAIT_CIVILIZATION_BUILDING_STELE"/>
+		<Row BuildingType="BUILDING_ARCH" Name="LOC_BUILDING_ARCH_NAME" Description="LOC_BUILDING_ARCH_DESCRIPTION" PrereqDistrict="DISTRICT_CITY_CENTER" PurchaseYield="YIELD_GOLD" Cost="60"  TraitType="TRAIT_CIVILIZATION_BUILDING_ARCH"/>
 	</Buildings>
 	<Building_YieldChanges>
-		<Row BuildingType="BUILDING_STELE" YieldType="YIELD_CULTURE" YieldChange="2"/>
+		<Row BuildingType="BUILDING_ARCH" YieldType="YIELD_CULTURE" YieldChange="2"/>
 	</Building_YieldChanges>
 </GameInfo>

@@ -3,11 +3,11 @@
 <GameData>
   <LocalizedText>
   <!--Civilizations/Leaders -->
-    <Row Tag="LOC_CIVILIZATION_PUNT_NAME" Language="en_US">
-      <Text>Punt</Text>
+    <Row Tag="LOC_CIVILIZATION_ITALY_NAME" Language="en_US">
+      <Text>Italy</Text>
     </Row>
-    <Row Tag="LOC_LEADER_ATI_NAME" Language="en_US">
-      <Text>Ati</Text>
+    <Row Tag="LOC_LEADER_ALBION_NAME" Language="en_US">
+      <Text>Albion Lombard</Text>
     </Row>
    <!--Traits -->
    <Row Tag="LOC_TRAIT_CIVILIZATION_SOUK_NAME" Language="en_US">
@@ -17,16 +17,16 @@
       <Text>Floodplains do not block placement of commercial hubs, which are provided with an adjacency bonus from all floodplain and oasis tiles. +1 [ICON_Gold] gold for each city following Punt's religion.</Text>
     </Row>
     <Row Tag="LOC_TRAIT_LEADER_PWENET_NAME" Language="en_US">
-      <Text>Queen of Pwenet</Text>
+      <Text>King of Lombards</Text>
     </Row>
     <Row Tag="LOC_TRAIT_LEADER_PWENET_DESCRIPTION" Language="en_US">
-      <Text>Gains an additional economic government slot. Incoming trade routes from other civilizations provide +2 [ICON_Gold] gold for the Punt.</Text>
+      <Text>Gains an additional economic government slot. Incoming trade routes from other civilizations provide +2 [ICON_Gold] gold for the Italians.</Text>
     </Row>
-   <Row Tag="LOC_BUILDING_STELE_NAME" Language="en_US">
-      <Text>Stele</Text>
+   <Row Tag="LOC_BUILDING_ARCH_NAME" Language="en_US">
+      <Text>Arch</Text>
     </Row>
-    <Row Tag="LOC_BUILDING_STELE_DESCRIPTION" Language="en_US">
-      <Text>Monument replacement which grants +2 housing in addition to the same [ICON_Culture] culture output as the monument</Text>
+    <Row Tag="LOC_BUILDING_ARCH_DESCRIPTION" Language="en_US">
+      <Text>Monument replacement which grants double the [ICON_Culture] culture output as the monument</Text>
     </Row>
    <Row Tag="LOC_UNIT_WORKER_NAME" Language="en_US">
       <Text>Worker</Text>

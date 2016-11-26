@@ -2,16 +2,16 @@
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by matthew beach (Firaxis Games) -->
 <GameInfo>
 	<Types>
-		<Row Type="CIVILIZATION_PUNT" Kind="KIND_CIVILIZATION"/>
+		<Row Type="CIVILIZATION_ITALY" Kind="KIND_CIVILIZATION"/>
    		<Row Type="TRAIT_CIVILIZATION_SOUK" Kind="KIND_TRAIT" />
-		<Row Type="TRAIT_CIVILIZATION_BUILDING_STELE" Kind="KIND_TRAIT" />
+		<Row Type="TRAIT_CIVILIZATION_BUILDING_ARCH" Kind="KIND_TRAIT" />
 		<Row Type="TRAIT_CIVILIZATION_UNIT_WORKER" Kind="KIND_TRAIT" />
 	</Types>
 	<Civilizations>
-		<Row CivilizationType="CIVILIZATION_PUNT" Name="LOC_CIVILIZATION_PUNT_NAME" Description="LOC_CIVILIZATION_PUNT_DESCRIPTION" Adjective="LOC_CIVILIZATION_PUNT_ADJECTIVE" StartingCivilizationLevelType="CIVILIZATION_LEVEL_FULL_CIV" RandomCityNameDepth="3" Ethnicity="ETHNICITY_AFRICAN"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" Name="LOC_CIVILIZATION_ITALY_NAME" Description="LOC_CIVILIZATION_ITALY_DESCRIPTION" Adjective="LOC_CIVILIZATION_ITALY_ADJECTIVE" StartingCivilizationLevelType="CIVILIZATION_LEVEL_FULL_CIV" RandomCityNameDepth="3" Ethnicity="ETHNICITY_MEDIT"/>
 	</Civilizations>
 	<CivilizationLeaders>
-		<Row CivilizationType="CIVILIZATION_PUNT" LeaderType="LEADER_ATI" CapitalName="Pwenet"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" LeaderType="LEADER_ALBION" CapitalName="Pwenet"/>
 	</CivilizationLeaders>
 	<Modifiers>
 		<Row>
@@ -101,7 +101,7 @@
 	</ModifierArguments>
 	<Traits>
 		<Row TraitType="TRAIT_CIVILIZATION_SOUK" Name="LOC_TRAIT_CIVILIZATION_SOUK_NAME" Description="LOC_TRAIT_CIVILIZATION_SOUK_DESCRIPTION"/>
-		<Row TraitType="TRAIT_CIVILIZATION_BUILDING_STELE" Name="LOC_BUILDING_STELE_NAME" Description="LOC_BUILDING_STELE_DESCRIPTION"/>
+		<Row TraitType="TRAIT_CIVILIZATION_BUILDING_ARCH" Name="LOC_BUILDING_ARCH_NAME" Description="LOC_BUILDING_ARCH_DESCRIPTION"/>
 		<Row TraitType="TRAIT_CIVILIZATION_UNIT_WORKER" Name="LOC_UNIT_WORKER_NAME" Description="LOC_UNIT_WORKER_DESCRIPTION"/>
 	</Traits>
 	<TraitModifiers>
@@ -123,49 +123,49 @@
 		</Row>
 	</TraitModifiers>
 	<CivilizationTraits>
-		<Row CivilizationType="CIVILIZATION_PUNT" TraitType="TRAIT_CIVILIZATION_SOUK"/>
-		<Row CivilizationType="CIVILIZATION_PUNT" TraitType="TRAIT_CIVILIZATION_BUILDING_STELE"/>
-		<Row CivilizationType="CIVILIZATION_PUNT" TraitType="TRAIT_CIVILIZATION_UNIT_WORKER"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" TraitType="TRAIT_CIVILIZATION_SOUK"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" TraitType="TRAIT_CIVILIZATION_BUILDING_ARCH"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" TraitType="TRAIT_CIVILIZATION_UNIT_WORKER"/>
 	</CivilizationTraits>
 	<CityNames>
-		<Row CivilizationType="CIVILIZATION_PUNT" CityName="Pwenet"/>
-		<Row CivilizationType="CIVILIZATION_PUNT" CityName="Ta Netjer"/>
-		<Row CivilizationType="CIVILIZATION_PUNT" CityName="Abeche"/>
-		<Row CivilizationType="CIVILIZATION_PUNT" CityName="Pachodo"/>
-		<Row CivilizationType="CIVILIZATION_PUNT" CityName="Malakai"/>
-		<Row CivilizationType="CIVILIZATION_PUNT" CityName="Kodhok"/>
-		<Row CivilizationType="CIVILIZATION_PUNT" CityName="Wad Akon"/>
-		<Row CivilizationType="CIVILIZATION_PUNT" CityName="Juba"/>
-		<Row CivilizationType="CIVILIZATION_PUNT" CityName="Maiduguri"/>
-		<Row CivilizationType="CIVILIZATION_PUNT" CityName="Nimule"/>
-		<Row CivilizationType="CIVILIZATION_PUNT" CityName="Wara"/>
-		<Row CivilizationType="CIVILIZATION_PUNT" CityName="Am Zoer"/>
-		<Row CivilizationType="CIVILIZATION_PUNT" CityName="Biram"/>
-		<Row CivilizationType="CIVILIZATION_PUNT" CityName="Katsina"/>
-		<Row CivilizationType="CIVILIZATION_PUNT" CityName="Daura"/>
-		<Row CivilizationType="CIVILIZATION_PUNT" CityName="Adre"/>
-		<Row CivilizationType="CIVILIZATION_PUNT" CityName="Zinder"/>
-		<Row CivilizationType="CIVILIZATION_PUNT" CityName="Soroa"/>
-		<Row CivilizationType="CIVILIZATION_PUNT" CityName="Diffa"/>
-		<Row CivilizationType="CIVILIZATION_PUNT" CityName="Tahoua"/>
-		<Row CivilizationType="CIVILIZATION_PUNT" CityName="Goure"/>
-		<Row CivilizationType="CIVILIZATION_PUNT" CityName="Am Dam"/>
-		<Row CivilizationType="CIVILIZATION_PUNT" CityName="Iriba"/>
-		<Row CivilizationType="CIVILIZATION_PUNT" CityName="El Geneina"/>
-		<Row CivilizationType="CIVILIZATION_PUNT" CityName="Zalingei"/>
-		<Row CivilizationType="CIVILIZATION_PUNT" CityName="Garsila"/>
-		<Row CivilizationType="CIVILIZATION_PUNT" CityName="Adre"/>
-		<Row CivilizationType="CIVILIZATION_PUNT" CityName="Oum Hadier"/>
-		<Row CivilizationType="CIVILIZATION_PUNT" CityName="Mangalme"/>
-		<Row CivilizationType="CIVILIZATION_PUNT" CityName="Bourtoutou"/>
-		<Row CivilizationType="CIVILIZATION_PUNT" CityName="Am Timan"/>
-		<Row CivilizationType="CIVILIZATION_PUNT" CityName="Abou Deia"/>
-		<Row CivilizationType="CIVILIZATION_PUNT" CityName="Tonga"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Pwenet"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Ta Netjer"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Abeche"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Pachodo"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Malakai"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Kodhok"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Wad Akon"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Juba"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Maiduguri"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Nimule"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Wara"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Am Zoer"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Biram"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Katsina"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Daura"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Adre"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Zinder"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Soroa"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Diffa"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Tahoua"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Goure"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Am Dam"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Iriba"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="El Geneina"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Zalingei"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Garsila"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Adre"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Oum Hadier"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Mangalme"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Bourtoutou"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Am Timan"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Abou Deia"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Tonga"/>
 	</CityNames>
 	<StartBiasFeatures>
-		<Row CivilizationType="CIVILIZATION_PUNT" FeatureType="FEATURE_FLOODPLAINS" Tier="1"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" FeatureType="FEATURE_FLOODPLAINS" Tier="1"/>
 	</StartBiasFeatures>
 	<StartBiasRivers>
-		<Row CivilizationType="CIVILIZATION_PUNT" Tier="4"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" Tier="4"/>
 	</StartBiasRivers>
 </GameInfo>

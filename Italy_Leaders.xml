@@ -2,14 +2,14 @@
 <!-- edited by Rob Riley -->
 <GameInfo>
 	<Types>
-		<Row Type="LEADER_ATI" Kind="KIND_LEADER"/>
+		<Row Type="LEADER_ALBION" Kind="KIND_LEADER"/>
 		<Row Type="TRAIT_LEADER_PWENET" Kind="KIND_TRAIT"/>
 	</Types>
 	<Leaders>
-		<Row LeaderType="LEADER_ATI" Name="LOC_LEADER_ATI_NAME" InheritFrom="LEADER_DEFAULT" SceneLayers="4"/>
+		<Row LeaderType="LEADER_ALBION" Name="LOC_LEADER_ALBION_NAME" InheritFrom="LEADER_DEFAULT" SceneLayers="4"/>
 	</Leaders>
 	<LeaderTraits>
-		<Row LeaderType="LEADER_ATI" TraitType="TRAIT_LEADER_PWENET"/>
+		<Row LeaderType="LEADER_ALBION" TraitType="TRAIT_LEADER_PWENET"/>
 	</LeaderTraits>
 	<Traits>
 		<Row TraitType="TRAIT_LEADER_PWENET" Name="LOC_TRAIT_LEADER_PWENET_NAME" Description="LOC_TRAIT_LEADER_PWENET_DESCRIPTION"/>
