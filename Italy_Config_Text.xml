@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+  <LocalizedText>
+  <!--Civilizations/Leaders -->
+    <Row Tag="LOC_CIVILIZATION_PUNT_NAME" Language="en_US">
+      <Text>Punt</Text>
+    </Row>
+    <Row Tag="LOC_LEADER_ATI_NAME" Language="en_US">
+      <Text>Ati</Text>
+    </Row>
+   <!--Traits -->
+   <Row Tag="LOC_TRAIT_CIVILIZATION_SOUK_NAME" Language="en_US">
+      <Text>Souks of Ta-Netjer</Text>
+    </Row>
+    <Row Tag="LOC_TRAIT_CIVILIZATION_SOUK_DESCRIPTION" Language="en_US">
+      <Text>Floodplains do not block placement of commercial hubs, which are provided with an adjacency bonus from all floodplain and oasis tiles. +1 [ICON_Gold] gold for each city following Punt's religion.</Text>
+    </Row>
+    <Row Tag="LOC_TRAIT_LEADER_PWENET_NAME" Language="en_US">
+      <Text>Queen of Pwenet</Text>
+    </Row>
+    <Row Tag="LOC_TRAIT_LEADER_PWENET_DESCRIPTION" Language="en_US">
+      <Text>Gains an additional economic government slot. Incoming trade routes from other civilizations provide +2 [ICON_Gold] gold for the Punt.</Text>
+    </Row>
+   <Row Tag="LOC_BUILDING_STELE_NAME" Language="en_US">
+      <Text>Stele</Text>
+    </Row>
+    <Row Tag="LOC_BUILDING_STELE_DESCRIPTION" Language="en_US">
+      <Text>Monument replacement which grants +2 housing in addition to the same [ICON_Culture] culture output as the monument</Text>
+    </Row>
+   <Row Tag="LOC_UNIT_WORKER_NAME" Language="en_US">
+      <Text>Worker</Text>
+    </Row>
+    <Row Tag="LOC_UNIT_WORKER_DESCRIPTION" Language="en_US">
+      <Text>The worker has an extra charge than the builder it replaces</Text>
+    </Row>
+  </LocalizedText>
+</GameData>

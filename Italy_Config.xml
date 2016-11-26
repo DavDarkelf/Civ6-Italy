@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameInfo>
+	<Players>
+  <Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_PUNT" LeaderType="LEADER_ATI" CivilizationName="LOC_CIVILIZATION_PUNT_NAME" CivilizationIcon="ICON_CIVILIZATION_EGYPT" LeaderName="LOC_LEADER_ATI_NAME" LeaderIcon="ICON_LEADER_CLEOPATRA" CivilizationAbilityName="LOC_TRAIT_CIVILIZATION_SOUK_NAME" CivilizationAbilityDescription="LOC_TRAIT_CIVILIZATION_SOUK_DESCRIPTION" CivilizationAbilityIcon="ICON_CIVILIZATION_EGYPT" LeaderAbilityName="LOC_TRAIT_LEADER_PWENET_NAME" LeaderAbilityDescription="LOC_TRAIT_LEADER_PWENET_DESCRIPTION" LeaderAbilityIcon="ICON_LEADER_CLEOPATRA"/>
+	</Players>
+	<PlayerItems>
+		<Row CivilizationType="CIVILIZATION_PUNT" LeaderType="LEADER_ATI" Type="UNIT_WORKER" Icon="ICON_UNIT_BUILDER" Name="LOC_UNIT_WORKER_NAME" Description="LOC_UNIT_WORKER_DESCRIPTION" SortIndex="10" />
+		<Row CivilizationType="CIVILIZATION_PUNT" LeaderType="LEADER_ATI" Type="BUILDING_STELE" Icon="ICON_BUILDING_MONUMENT" Name="LOC_BUILDING_STELE_NAME" Description="LOC_BUILDING_STELE_DESCRIPTION" SortIndex="20" />
+	</PlayerItems>
+</GameInfo>
+
+

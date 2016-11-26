@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameInfo>
+	<Types>
+		<Row Type="UNIT_WORKER" Kind="KIND_UNIT"/>
+	</Types>
+	<UnitAiInfos>
+		<Row UnitType="UNIT_WORKER" AiType="UNITAI_BUILD"/>
+		<Row UnitType="UNIT_WORKER" AiType="UNITTYPE_CIVILIAN"/>
+	</UnitAiInfos>
+	<UnitCaptures>
+		<Row CapturedUnitType="UNIT_WORKER" BecomesUnitType="UNIT_BUILDER"/>
+	</UnitCaptures>
+	<UnitReplaces>
+		<Row CivUniqueUnitType="UNIT_WORKER" ReplacesUnitType="UNIT_BUILDER"/>
+	</UnitReplaces>
+  	<Units>
+		<Row UnitType="UNIT_WORKER" BaseMoves="2" Cost="50" AdvisorType="ADVISOR_GENERIC" BaseSightRange="2" ZoneOfControl="false" Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_CIVILIAN" Name="LOC_UNIT_WORKER_NAME" Description="LOC_UNIT_WORKER_DESCRIPTION" CanCapture="False" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="4" PurchaseYield="YIELD_GOLD" BuildCharges="4" TraitType="TRAIT_CIVILIZATION_UNIT_WORKER"/>
+  	</Units>
+	<Improvement_ValidBuildUnits>
+		<Row ImprovementType="IMPROVEMENT_FARM" UnitType="UNIT_WORKER"/>
+		<Row ImprovementType="IMPROVEMENT_MINE" UnitType="UNIT_WORKER"/>
+		<Row ImprovementType="IMPROVEMENT_QUARRY" UnitType="UNIT_WORKER"/>
+		<Row ImprovementType="IMPROVEMENT_FISHING_BOATS" UnitType="UNIT_WORKER"/>
+		<Row ImprovementType="IMPROVEMENT_PASTURE" UnitType="UNIT_WORKER"/>
+		<Row ImprovementType="IMPROVEMENT_PLANTATION" UnitType="UNIT_WORKER"/>
+		<Row ImprovementType="IMPROVEMENT_CAMP" UnitType="UNIT_WORKER"/>
+		<Row ImprovementType="IMPROVEMENT_LUMBER_MILL" UnitType="UNIT_WORKER"/>
+		<Row ImprovementType="IMPROVEMENT_OIL_WELL" UnitType="UNIT_WORKER"/>
+		<Row ImprovementType="IMPROVEMENT_OFFSHORE_OIL_RIG" UnitType="UNIT_WORKER"/>
+		<Row ImprovementType="IMPROVEMENT_BEACH_RESORT" UnitType="UNIT_WORKER"/>
+	</Improvement_ValidBuildUnits>
+</GameInfo>

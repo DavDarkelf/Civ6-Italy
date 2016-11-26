@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by matthew beach (Firaxis Games) -->
+<GameInfo>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_PUNT_PRIMARY</Type>
+			<Red>0.874</Red>
+			<Green>0.627</Green>
+			<Blue>0.223</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_PUNT_SECONDARY</Type>
+			<Red>0.180</Red>
+			<Green>0.215</Green>
+			<Blue>0.313</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+</GameInfo>

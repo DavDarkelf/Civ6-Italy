@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+  <LocalizedText>
+    <Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_STELE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+      <Text>A Stele is a large, upright slab of stone or wood used as a monument to commemorate great leaders, victories in battle, or occasionally to mark territorial boundaries. Found throughout Ethiopia and the surrounding regions, the stelae were often intricately inscribed with the details of the person or event being memorialized. The Obelisk of Axum, one such stele, was constructed in the mid-4th century AD in the Ethiopian city of Axum, but was later broken down and shipped to Italy during the occupation of Ethiopia by Mussolini's forces. Standing over 75 feet tall and weighing 150 tons, the great stele was returned to Ethiopia and reassembled in 2008 as part of an effort by the United Nations Educational, Scientific, and Cultural Organization.</Text>
+    </Row>
+  <!--Civilizations/Leaders -->
+    <Row Tag="LOC_CIVILIZATION_PUNT_NAME" Language="en_US">
+      <Text>Punt</Text>
+    </Row>
+    <Row Tag="LOC_LEADER_ATI_NAME" Language="en_US">
+      <Text>Ati</Text>
+    </Row>
+   <!--Traits -->
+   <Row Tag="LOC_TRAIT_CIVILIZATION_SOUK_NAME" Language="en_US">
+      <Text>Souks of Ta-Netjer</Text>
+    </Row>
+    <Row Tag="LOC_TRAIT_CIVILIZATION_SOUK_DESCRIPTION" Language="en_US">
+      <Text>Floodplains do not block placement of commercial hubs, which are provided with an adjacency bonus from all floodplain and oasis tiles. +1 [ICON_Gold] gold for each city following Punt's religion.</Text>
+    </Row>
+   <Row Tag="LOC_BUILDING_STELE_NAME" Language="en_US">
+      <Text>Stele</Text>
+    </Row>
+    <Row Tag="LOC_BUILDING_STELE_DESCRIPTION" Language="en_US">
+      <Text>Monument replacement which grants +2 housing in addition to the same [ICON_Culture] culture output as the monument</Text>
+    </Row>
+   <Row Tag="LOC_UNIT_WORKER_NAME" Language="en_US">
+      <Text>Worker</Text>
+    </Row>
+    <Row Tag="LOC_UNIT_WORKER_DESCRIPTION" Language="en_US">
+      <Text>The worker has an extra charge than the builder it replaces</Text>
+    </Row>
+	<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WORKER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+	<Text>To survive, a civilization needs skilled workers. They may be highly trained engineers, or civilians conscripted into labour - or, indeed, slaves - but someone has to dig the mines, plant the fields and pave the roads. Without these men and women, a civilization will stagnate and eventually fall prey to a more vigorous neighbour.</Text>
+	</Row>
+    <Row Tag="LOC_TRAIT_LEADER_PWENET_NAME" Language="en_US">
+      <Text>Queen of Pwenet</Text>
+    </Row>
+    <Row Tag="LOC_TRAIT_LEADER_PWENET_DESCRIPTION" Language="en_US">
+      <Text>Gains an additional economic government slot. Incoming trade routes from other civilizations provide +2 [ICON_Gold] gold for the Punt.</Text>
+    </Row>
+   <Row Tag="LOC_CIVILIZATION_PUNT_DESCRIPTION" Language="en_US">
+      <Text>Punt Civilization</Text>
+    </Row>
+   <Row Tag="LOC_LOADING_INFO_LEADER_ATI" Language="en_US">
+      <Text>Greetings upon thee, oh beautiful Ati, wondrous Queen of the land of Punt. Your lands were rich and plentiful and you traded with the great nation of Egypt. Stories are told of how Queen Hatshepsut herself sent trading missions to your lands when you were on the throne with your husband, King Parahu. In later years, people would debate where your land actually was and it would remain a mystery for generations. Queen Ati, your people look to you to restore the glorious trade networks which Punt had across the seas.  Will you lead your people to build a world trade network?  Can you build a civilization that will stand the test of time?</Text>
+    </Row>
+    <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ATI_TITLE" Language="en_US">
+	<Text>Queen Ati</Text>
+    </Row>
+    <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ATI_SUBTITLE" Language="en_US">
+	<Text>Queen of the Land of Punt</Text>
+    </Row>			
+    <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ATI_CHAPTER_HISTORY_PARA_1" Language="en_US">
+	<Text>According to the temple reliefs, the Land of Punt was ruled by King Parahu and Queen Ati during the lifetime of Hatshepsut of Egypt. There is nothing else specifically that we know about Ati other than the fact that trade missions from Egypt came to the land of Punt during her reign.</Text>
+    </Row>
+    <Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_PUNT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+	<Text>The Land of Punt, also called Pwenet, or Pwene by the ancient Egyptians, was a trading partner known for producing and exporting gold, aromatic resins, African blackwood, ebony, ivory, slaves and wild animals. Information about Punt has been found in ancient Egyptian records of trade missions to this region. At times Punt is referred to as Ta netjer, the "land of the god".[NEWLINE][NEWLINE]The earliest recorded Egyptian expedition to Punt was organized by Pharaoh Sahure of the Fifth Dynasty (25th century BC) although gold from Punt is recorded as having been in Egypt in the time of king Khufu of the Fourth Dynasty of Egypt.[NEWLINE][NEWLINE]Subsequently, there were more expeditions to Punt. In the Twelfth dynasty of Egypt, trade with Punt was celebrated in popular literature in the "Tale of the Shipwrecked Sailor"[NEWLINE][NEWLINE]In the reign of Mentuhotep III (around 1950 BC), an officer named Hannu organized one or more voyages to Punt, but it is uncertain whether he traveled on these expeditions. Trading missions of the 12th dynasty pharaohs Senusret I and Amenemhat II had also navigated their way to and from the mysterious land of Punt.[NEWLINE][NEWLINE]During the reign of Queen Hatshepsut in the 15th century BC ships regularly crossed the red Sea in order to obtain bitumen, copper, carved amulets, naptha and other goods transported overland and down the dead sea to Elat at the head of the gulf of Aqaba where they were joined with Frankincense and myrrh coming north both by sea and overland along trade routes through the mountains running north along the east coast of the Red Sea. According to the temple reliefs, the Land of Punt was ruled at that time by King Parahu and Queen Ati.[NEWLINE][NEWLINE]The exact location of Punt remains a mystery. Most scholars today believe Punt was located to the south-east of Egypt, most likely on the coast of the Horn of Africa in what is today northern Somalia. However some scholars point instead to a range of ancient inscriptions which locate Punt in Arabia.</Text>
+    </Row>
+  </LocalizedText>
+</GameData>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameInfo>
+	<Types>
+		<Row Type="BUILDING_STELE" Kind="KIND_BUILDING"/>
+	</Types>
+	<BuildingReplaces>
+		<Row CivUniqueBuildingType="BUILDING_STELE" ReplacesBuildingType="BUILDING_MONUMENT"/>
+	</BuildingReplaces>
+	<Buildings>
+		<Row BuildingType="BUILDING_STELE" Name="LOC_BUILDING_STELE_NAME" Description="LOC_BUILDING_STELE_DESCRIPTION" PrereqDistrict="DISTRICT_CITY_CENTER" PurchaseYield="YIELD_GOLD" Cost="60" Housing="2" TraitType="TRAIT_CIVILIZATION_BUILDING_STELE"/>
+	</Buildings>
+	<Building_YieldChanges>
+		<Row BuildingType="BUILDING_STELE" YieldType="YIELD_CULTURE" YieldChange="2"/>
+	</Building_YieldChanges>
+</GameInfo>

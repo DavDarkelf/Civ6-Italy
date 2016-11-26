@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="282411C8-CH19-F8g3-4BF6-9C5jjB933Bh8" version="1">
+	<Properties>
+		<Name>LOC_MOD_TITLE</Name>
+		<Teaser>LOC_MOD_TEASER</Teaser>
+		<Description>LOC_MOD_DESCRIPTION</Description>
+		<Authors>LOC_MOD_AUTHORS</Authors>
+		<SpecialThanks>LOC_MOD_SPECIAL_THANKS</SpecialThanks>
+	</Properties>
+	<Components>
+		<UpdateDatabase id="PUNT_COMPONENT">
+			<Items>
+				<File>Italy_Buildings.xml</File>
+				<File>Italy_Civilizations.xml</File>
+				<File>Italy_Colours.xml</File>
+				<File>Italy_Gossip.xml</File>
+				<File>Italy_Leaders.xml</File>
+				<File>Italy_PlayerColours.xml</File>
+				<File>Italy_Units.xml</File>
+			</Items>
+		</UpdateDatabase>
+		<LocalizedText id="PUNT_TEXT">
+			<Items>
+				<File>Italy_Text.xml</File>
+			</Items>
+		</LocalizedText>
+	</Components>
+	<Settings>
+		<Custom id="PUNT_SETTING">
+			<Items>
+				<File>Italy_Config.xml</File>
+			</Items>
+		</Custom>
+		<LocalizedText id="PUNT_SETTING_TEXT">
+			<Items>
+				<File>Italy_Config_Text.xml</File>
+			</Items>
+		</LocalizedText>
+	</Settings>
+	<LocalizedText>
+		<Text id="LOC_MOD_TITLE">
+			<en_US>Italian civilization</en_US>
+		</Text>
+		<Text id="LOC_MOD_TEASER">
+			<en_US>Play as Victor Emanuel II of the reunified Italian civilization</en_US>
+		</Text>
+		<Text id="LOC_MOD_DESCRIPTION">
+			<en_US>A full civilization with its own uniques</en_US>
+		</Text>
+		<Text id="LOC_MOD_AUTHORS">
+			<en_US>David Harper</en_US>
+		</Text>
+		<Text id="LOC_MOD_SPECIAL_THANKS">
+			<en_US>Rob Riley and Firaxis</en_US>
+		</Text>
+	</LocalizedText>
+	<Files>
+		<File>Italy_Buildings.xml</File>
+		<File>Italy_Config.xml</File>
+		<File>Italy_Config_Text.xml</File>
+		<File>Italy_Civilizations.xml</File>
+		<File>Italy_Colours.xml</File>
+		<File>Italy_Gossip.xml</File>
+		<File>Italy_Leaders.xml</File>
+		<File>Italy_PlayerColours.xml</File>
+		<File>Italy_Text.xml</File>
+		<File>Italy_Units.xml</File>
+	</Files>
+</Mod>
