@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <GameData>
   <LocalizedText>
     <Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_ARCH_CHAPTER_HISTORY_PARA_1" Language="en_US">
-      <Text>A Stele is a large, upright slab of stone or wood used as a monument to commemorate great leaders, victories in battle, or occasionally to mark territorial boundaries. Found throughout Ethiopia and the surrounding regions, the stelae were often intricately inscribed with the details of the person or event being memorialized. The Obelisk of Axum, one such stele, was constructed in the mid-4th century AD in the Ethiopian city of Axum, but was later broken down and shipped to Italy during the occupation of Ethiopia by Mussolini's forces. Standing over 75 feet tall and weighing 150 tons, the great stele was returned to Ethiopia and reassembled in 2008 as part of an effort by the United Nations Educational, Scientific, and Cultural Organization.</Text>
+      <Text> A Triumphal Arch is a large Arch with one or more arched passageways.It is often found spanning roads and in it's simplest form consists of two piers connectect by an arch with a flat entablature on which a statue might be mounted or which bears commemrative inscriptions.
+      It is often associated with ancient rome but examples can be found all across the world including the Wellingtion Arch (Marble Arch) in London and the Arch de Triomphe in Paris. </Text>
     </Row>
   <!--Civilizations/Leaders -->
     <Row Tag="LOC_CIVILIZATION_ITALY_NAME" Language="en_US">
@@ -20,10 +20,10 @@
       <Text>Floodplains do not block placement of commercial hubs, which are provided with an adjacency bonus from all floodplain and oasis tiles. +1 [ICON_Gold] gold for each city following Punt's religion.</Text>
     </Row>
    <Row Tag="LOC_BUILDING_ARCH_NAME" Language="en_US">
-      <Text>Arch</Text>
+      <Text>Triumphal Arch</Text>
     </Row>
     <Row Tag="LOC_BUILDING_ARCH_DESCRIPTION" Language="en_US">
-      <Text>Monument replacement which grants double the [ICON_Culture] culture output as the monument</Text>
+      <Text>The Triumphal Arch replaces the monument and grants double the [ICON_Culture] culture output of one</Text>
     </Row>
    <Row Tag="LOC_UNIT_WORKER_NAME" Language="en_US">
       <Text>Worker</Text>
@@ -56,11 +56,11 @@
     </Row>			
     <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ALBION_CHAPTER_HISTORY_PARA_1" Language="en_US">
 	<Text>
-  Albion was king of the Lombards. During his reign the Lombards ended their migrations by settling in Italy, the northern part of which Alboin conquered. Albion was later assasinated by the Byzantines in a coup d'etat organised by his Helmichis, his foster brother who was supported by Albion's wife Rosamund. Most of the Lombards opposed this and it failed.</Text>
+  Albion was king of the Lombards. During his reign the Lombards ended their migrations by settling in Italy, the northern part of which Alboin conquered. Albion was later assasinated by the Byzantines in a coup d'etat organised by Helmichis, his foster brother who was supported by Albion's wife Rosamund. Most of the Lombards opposed this and it failed.</Text>
     </Row>
     <Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ITALY_CHAPTER_HISTORY_PARA_1" Language="en_US">
 	<Text>
-  TODO
+  In 568 AD Albion, a young leader of the Lombards, led the Lombard migration into Italy. At least 20,000 Saxon warriors joined them with their families. The first city to fall was Forum Iulii in 569 AD. Verona, Vicenza and Bresica soon followed. Milan fell to the Lombards in the summer of 569 AD as the small Byzantine army guarding it could do nothing to prevent it. They continued to conquer further south. At it's height the Lombard territory was divided into 36 duchies, whose leaders settled in the major cities of each duchy. However this subdivision led to weakness. After the assaination of Albion and his successor Celph there was a period known as the Rule of Dukes when no King was elected until 584 AD.
   </Text>
     </Row>
   </LocalizedText>

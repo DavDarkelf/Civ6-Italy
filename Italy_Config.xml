@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GameInfo>
 	<Players>
-  <Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ITALY" LeaderType="LEADER_ALBION" CivilizationName="LOC_CIVILIZATION_ITALY_NAME" CivilizationIcon="ICON_CIVILIZATION_EGYPT" LeaderName="LOC_LEADER_ALBION_NAME" LeaderIcon="ICON_LEADER_CLEOPATRA" CivilizationAbilityName="LOC_TRAIT_CIVILIZATION_SOUK_NAME" CivilizationAbilityDescription="LOC_TRAIT_CIVILIZATION_SOUK_DESCRIPTION" CivilizationAbilityIcon="ICON_CIVILIZATION_EGYPT" LeaderAbilityName="LOC_TRAIT_LEADER_PWENET_NAME" LeaderAbilityDescription="LOC_TRAIT_LEADER_PWENET_DESCRIPTION" LeaderAbilityIcon="ICON_LEADER_CLEOPATRA"/>
+  <Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ITALY" LeaderType="LEADER_ALBION" CivilizationName="LOC_CIVILIZATION_ITALY_NAME" CivilizationIcon="ICON_CIVILIZATION_FRANCE" LeaderName="LOC_LEADER_ALBION_NAME" LeaderIcon="ICON_LEADER_PERICLES" CivilizationAbilityName="LOC_TRAIT_CIVILIZATION_SOUK_NAME" CivilizationAbilityDescription="LOC_TRAIT_CIVILIZATION_SOUK_DESCRIPTION" CivilizationAbilityIcon="ICON_CIVILIZATION_FRANCE" LeaderAbilityName="LOC_TRAIT_LEADER_PWENET_NAME" LeaderAbilityDescription="LOC_TRAIT_LEADER_PWENET_DESCRIPTION" LeaderAbilityIcon="ICON_LEADER_CLEOPATRA"/>
 	</Players>
 	<PlayerItems>
 		<Row CivilizationType="CIVILIZATION_ITALY" LeaderType="LEADER_ALBION" Type="UNIT_WORKER" Icon="ICON_UNIT_BUILDER" Name="LOC_UNIT_WORKER_NAME" Description="LOC_UNIT_WORKER_DESCRIPTION" SortIndex="10" />
