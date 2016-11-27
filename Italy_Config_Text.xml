@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <GameData>
   <LocalizedText>
   <!--Civilizations/Leaders -->
@@ -16,23 +15,23 @@
     <Row Tag="LOC_TRAIT_CIVILIZATION_SOUK_DESCRIPTION" Language="en_US">
       <Text>Floodplains do not block placement of commercial hubs, which are provided with an adjacency bonus from all floodplain and oasis tiles. +1 [ICON_Gold] gold for each city following Punt's religion.</Text>
     </Row>
-    <Row Tag="LOC_TRAIT_LEADER_PWENET_NAME" Language="en_US">
+    <Row Tag="LOC_TRAIT_LEADER_KINGALBION_NAME" Language="en_US">
       <Text>King of Lombards</Text>
     </Row>
-    <Row Tag="LOC_TRAIT_LEADER_PWENET_DESCRIPTION" Language="en_US">
-      <Text>Gains an additional economic government slot. Incoming trade routes from other civilizations provide +2 [ICON_Gold] gold for the Italians.</Text>
+    <Row Tag="LOC_TRAIT_LEADER_KINGALBION_DESCRIPTION" Language="en_US">
+      <Text>Gains an additional wildcard government slot.</Text>
     </Row>
    <Row Tag="LOC_BUILDING_ARCH_NAME" Language="en_US">
-      <Text>Arch</Text>
+      <Text>Triumphal Arch</Text>
     </Row>
     <Row Tag="LOC_BUILDING_ARCH_DESCRIPTION" Language="en_US">
       <Text>Monument replacement which grants double the [ICON_Culture] culture output as the monument</Text>
     </Row>
-   <Row Tag="LOC_UNIT_WORKER_NAME" Language="en_US">
-      <Text>Worker</Text>
+   <Row Tag="LOC_UNIT_CONDOTTIERI_NAME" Language="en_US">
+      <Text>Condottieri</Text>
     </Row>
-    <Row Tag="LOC_UNIT_WORKER_DESCRIPTION" Language="en_US">
-      <Text>The worker has an extra charge than the builder it replaces</Text>
+    <Row Tag="LOC_UNIT_CONDOTTIERI_DESCRIPTION" Language="en_US">
+      <Text>The Condottieri is a stronger faster moving replacement for the Pikeman</Text>
     </Row>
   </LocalizedText>
 </GameData>

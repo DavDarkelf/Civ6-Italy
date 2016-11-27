@@ -25,23 +25,23 @@
     <Row Tag="LOC_BUILDING_ARCH_DESCRIPTION" Language="en_US">
       <Text>The Triumphal Arch replaces the monument and grants double the [ICON_Culture] culture output of one</Text>
     </Row>
-   <Row Tag="LOC_UNIT_WORKER_NAME" Language="en_US">
-      <Text>Worker</Text>
+   <Row Tag="LOC_UNIT_CONDOTTIERI_NAME" Language="en_US">
+      <Text>Condottieri</Text>
     </Row>
-    <Row Tag="LOC_UNIT_WORKER_DESCRIPTION" Language="en_US">
-      <Text>The worker has an extra charge than the builder it replaces</Text>
+    <Row Tag="LOC_UNIT_CONDOTTIERI_DESCRIPTION" Language="en_US">
+      <Text>The Condottieri are an stronger version of the Pikeman</Text>
     </Row>
-	<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_WORKER_CHAPTER_HISTORY_PARA_1" Language="en_US">
-	<Text>To survive, a civilization needs skilled workers. They may be highly trained engineers, or civilians conscripted into labour - or, indeed, slaves - but someone has to dig the mines, plant the fields and pave the roads. Without these men and women, a civilization will stagnate and eventually fall prey to a more vigorous neighbour.</Text>
+	<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CONDOTTIERI_CHAPTER_HISTORY_PARA_1" Language="en_US">
+	<Text>Condottieri were the leaders of well organised mercenaries in Italy. Their code of military justice imposed discipline and called for an equal division of each contract. They were the first to view warfare from the perspective of military science which led to a depature from chivalry.</Text>
 	</Row>
-    <Row Tag="LOC_TRAIT_LEADER_PWENET_NAME" Language="en_US">
-      <Text>Queen of Pwenet</Text>
+    <Row Tag="LOC_TRAIT_LEADER_KINGALBION_NAME" Language="en_US">
+      <Text>King of the Lombards</Text>
     </Row>
-    <Row Tag="LOC_TRAIT_LEADER_PWENET_DESCRIPTION" Language="en_US">
-      <Text>Gains an additional economic government slot. Incoming trade routes from other civilizations provide +2 [ICON_Gold] gold for the Punt.</Text>
+    <Row Tag="LOC_TRAIT_LEADER_KINGALBION_DESCRIPTION" Language="en_US">
+      <Text>Gains an additional wildcard government slot.</Text>
     </Row>
    <Row Tag="LOC_CIVILIZATION_ITALY_DESCRIPTION" Language="en_US">
-      <Text>Punt Civilization</Text>
+      <Text>Italian Civilization</Text>
     </Row>
    <Row Tag="LOC_LOADING_INFO_LEADER_ALBION" Language="en_US">
       <Text>

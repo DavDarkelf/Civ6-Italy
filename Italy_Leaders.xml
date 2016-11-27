@@ -1,34 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- edited by Rob Riley -->
 <GameInfo>
 	<Types>
 		<Row Type="LEADER_ALBION" Kind="KIND_LEADER"/>
-		<Row Type="TRAIT_LEADER_PWENET" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_LEADER_KINGALBION" Kind="KIND_TRAIT"/>
 	</Types>
 	<Leaders>
 		<Row LeaderType="LEADER_ALBION" Name="LOC_LEADER_ALBION_NAME" InheritFrom="LEADER_DEFAULT" SceneLayers="4"/>
 	</Leaders>
 	<LeaderTraits>
-		<Row LeaderType="LEADER_ALBION" TraitType="TRAIT_LEADER_PWENET"/>
+		<Row LeaderType="LEADER_ALBION" TraitType="TRAIT_LEADER_KINGALBION"/>
 	</LeaderTraits>
 	<Traits>
-		<Row TraitType="TRAIT_LEADER_PWENET" Name="LOC_TRAIT_LEADER_PWENET_NAME" Description="LOC_TRAIT_LEADER_PWENET_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_KINGALBION" Name="LOC_TRAIT_LEADER_KINGALBION_NAME" Description="LOC_TRAIT_LEADER_KINGALBION_DESCRIPTION"/>
 	</Traits>
 	<TraitModifiers>
-		<Row TraitType="TRAIT_LEADER_PWENET" ModifierId="TRAIT_INCOMING_TRADE_GAIN_GOLD"/>
-		<Row TraitType="TRAIT_LEADER_PWENET" ModifierId="TRAIT_ECONOMIC_GOVERNMENT_SLOT"/>
+		<Row TraitType="TRAIT_LEADER_KINGALBION" ModifierId="TRAIT_WILDCARD_GOVERNMENT_SLOT"/>
 	</TraitModifiers>
 	<Modifiers>
 		<Row>
-			<ModifierId>TRAIT_ECONOMIC_GOVERNMENT_SLOT</ModifierId>
+			<ModifierId>TRAIT_WILDCARD_GOVERNMENT_SLOT</ModifierId>
 			<ModifierType>MODIFIER_PLAYER_CULTURE_ADJUST_GOVERNMENT_SLOTS_MODIFIER</ModifierType>
 		</Row>
 	</Modifiers>
 	<ModifierArguments>
 		<Row>
-			<ModifierId>TRAIT_ECONOMIC_GOVERNMENT_SLOT</ModifierId>
+			<ModifierId>TRAIT_WILDCARD_GOVERNMENT_SLOT</ModifierId>
 			<Name>GovernmentSlotType</Name>
-			<Value>SLOT_ECONOMIC</Value>
+			<Value>SLOT_WILDCARD</Value>
 		</Row>
 	</ModifierArguments>
 </GameInfo>

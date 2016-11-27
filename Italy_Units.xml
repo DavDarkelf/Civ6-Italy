@@ -1,32 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GameInfo>
 	<Types>
-		<Row Type="UNIT_WORKER" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_CONDOTTIERI" Kind="KIND_UNIT"/>
 	</Types>
 	<UnitAiInfos>
-		<Row UnitType="UNIT_WORKER" AiType="UNITAI_BUILD"/>
-		<Row UnitType="UNIT_WORKER" AiType="UNITTYPE_CIVILIAN"/>
+		<Row UnitType="UNIT_CONDOTTIERI" AiType="UNITAI_COMBAT"/>
+		<Row UnitType="UNIT_CONDOTTIERI" AiType="UNITAI_EXPLORE"/>
+		<Row UnitType="UNIT_CONDOTTIERI" AiType="UNITTYPE_MELEE"/>
+		<Row UnitType="UNIT_CONDOTTIERI" AiType="UNITTYPE_LAND_COMBAT"/>
 	</UnitAiInfos>
-	<UnitCaptures>
-		<Row CapturedUnitType="UNIT_WORKER" BecomesUnitType="UNIT_BUILDER"/>
-	</UnitCaptures>
 	<UnitReplaces>
-		<Row CivUniqueUnitType="UNIT_WORKER" ReplacesUnitType="UNIT_BUILDER"/>
+		<Row CivUniqueUnitType="UNIT_CONDOTTIERI" ReplacesUnitType="UNIT_PIKEMAN"/>
 	</UnitReplaces>
   	<Units>
-		<Row UnitType="UNIT_WORKER" BaseMoves="2" Cost="50" AdvisorType="ADVISOR_GENERIC" BaseSightRange="2" ZoneOfControl="false" Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_CIVILIAN" Name="LOC_UNIT_WORKER_NAME" Description="LOC_UNIT_WORKER_DESCRIPTION" CanCapture="False" CostProgressionModel="COST_PROGRESSION_PREVIOUS_COPIES" CostProgressionParam1="4" PurchaseYield="YIELD_GOLD" BuildCharges="4" TraitType="TRAIT_CIVILIZATION_UNIT_WORKER"/>
+		<Row UnitType="UNIT_CONDOTTIERI" BaseMoves="3" Cost="200" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2" ZoneOfControl="true" Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_LAND_COMBAT" Name="LOC_UNIT_CONDOTTIERI_NAME" Description="LOC_UNIT_CONDOTTIERI_DESCRIPTION" PurchaseYield="YIELD_GOLD"  TraitType="TRAIT_CIVILIZATION_UNIT_CONDOTTIERI" PromotionClass="PROMOTION_CLASS_ANTI_CAVALRY" Maintenance="3" Combat="50" PrereqTech="TECH_MILITARY_TACTICS" MandatoryObsoleteTech="TECH_COMPOSITES"/>
   	</Units>
-	<Improvement_ValidBuildUnits>
-		<Row ImprovementType="IMPROVEMENT_FARM" UnitType="UNIT_WORKER"/>
-		<Row ImprovementType="IMPROVEMENT_MINE" UnitType="UNIT_WORKER"/>
-		<Row ImprovementType="IMPROVEMENT_QUARRY" UnitType="UNIT_WORKER"/>
-		<Row ImprovementType="IMPROVEMENT_FISHING_BOATS" UnitType="UNIT_WORKER"/>
-		<Row ImprovementType="IMPROVEMENT_PASTURE" UnitType="UNIT_WORKER"/>
-		<Row ImprovementType="IMPROVEMENT_PLANTATION" UnitType="UNIT_WORKER"/>
-		<Row ImprovementType="IMPROVEMENT_CAMP" UnitType="UNIT_WORKER"/>
-		<Row ImprovementType="IMPROVEMENT_LUMBER_MILL" UnitType="UNIT_WORKER"/>
-		<Row ImprovementType="IMPROVEMENT_OIL_WELL" UnitType="UNIT_WORKER"/>
-		<Row ImprovementType="IMPROVEMENT_OFFSHORE_OIL_RIG" UnitType="UNIT_WORKER"/>
-		<Row ImprovementType="IMPROVEMENT_BEACH_RESORT" UnitType="UNIT_WORKER"/>
-	</Improvement_ValidBuildUnits>
 </GameInfo>
