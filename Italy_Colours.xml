@@ -3,15 +3,15 @@
 	<Colors>
 		<Row>
 			<Type>COLOR_PLAYER_PUNT_PRIMARY</Type>
-			<Red>1.000</Red>
-			<Green>0.000</Green>
+			<Red>0.000</Red>
+			<Green>1.000</Green>
 			<Blue>0.000</Blue>
 			<Alpha>1</Alpha>
 		</Row>
 		<Row>
 			<Type>COLOR_PLAYER_PUNT_SECONDARY</Type>
-			<Red>0.000</Red>
-			<Green>1.000</Green>
+			<Red>1.000</Red>
+			<Green>0.000</Green>
 			<Blue>0.000</Blue>
 			<Alpha>1</Alpha>
 		</Row>

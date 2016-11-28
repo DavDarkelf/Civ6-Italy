@@ -9,10 +9,10 @@
       <Text>Albion Lombard</Text>
     </Row>
    <!--Traits -->
-   <Row Tag="LOC_TRAIT_CIVILIZATION_SOUK_NAME" Language="en_US">
+   <Row Tag="LOC_TRAIT_CIVILIZATION_TODO_NAME" Language="en_US">
       <Text>Souks of Ta-Netjer</Text>
     </Row>
-    <Row Tag="LOC_TRAIT_CIVILIZATION_SOUK_DESCRIPTION" Language="en_US">
+    <Row Tag="LOC_TRAIT_CIVILIZATION_TODO_DESCRIPTION" Language="en_US">
       <Text>Floodplains do not block placement of commercial hubs, which are provided with an adjacency bonus from all floodplain and oasis tiles. +1 [ICON_Gold] gold for each city following Punt's religion.</Text>
     </Row>
     <Row Tag="LOC_TRAIT_LEADER_KINGALBION_NAME" Language="en_US">
@@ -26,6 +26,12 @@
     </Row>
     <Row Tag="LOC_BUILDING_ARCH_DESCRIPTION" Language="en_US">
       <Text>Monument replacement which grants double the [ICON_Culture] culture output as the monument</Text>
+    </Row>
+    <Row Tag="LOC_DISTRICT_ITALY_GRANDSQUARE_NAME" Language="en_US">
+      <Text>Grand Square</Text>
+    </Row>
+    <Row Tag="LOC_DISTRICT_ITALY_GRANDSQUARE_DESCRIPTION" Language="en_US">
+      <Text>Replacement for the Theatre Square</Text>
     </Row>
    <Row Tag="LOC_UNIT_CONDOTTIERI_NAME" Language="en_US">
       <Text>Condottieri</Text>

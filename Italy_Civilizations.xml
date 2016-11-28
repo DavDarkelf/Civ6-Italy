@@ -2,9 +2,9 @@
 <GameInfo>
 	<Types>
 		<Row Type="CIVILIZATION_ITALY" Kind="KIND_CIVILIZATION"/>
-   		<Row Type="TRAIT_CIVILIZATION_SOUK" Kind="KIND_TRAIT" />
 		<Row Type="TRAIT_CIVILIZATION_BUILDING_ARCH" Kind="KIND_TRAIT" />
 		<Row Type="TRAIT_CIVILIZATION_UNIT_CONDOTTIERI" Kind="KIND_TRAIT" />
+		<Row Type="TRAIT_CIVILIZATION_DISTRICT_ITALY_GRANDSQUARE" Kind="KIND_TRAIT"/>
 	</Types>
 	<Civilizations>
 		<Row CivilizationType="CIVILIZATION_ITALY" Name="LOC_CIVILIZATION_ITALY_NAME" Description="LOC_CIVILIZATION_ITALY_DESCRIPTION" Adjective="LOC_CIVILIZATION_ITALY_ADJECTIVE" StartingCivilizationLevelType="CIVILIZATION_LEVEL_FULL_CIV" RandomCityNameDepth="3" Ethnicity="ETHNICITY_MEDIT"/>
@@ -13,31 +13,13 @@
 		<Row CivilizationType="CIVILIZATION_ITALY" LeaderType="LEADER_ALBION" CapitalName="Rome"/>
 	</CivilizationLeaders>
 	<Traits>
-		<Row TraitType="TRAIT_CIVILIZATION_SOUK" Name="LOC_TRAIT_CIVILIZATION_SOUK_NAME" Description="LOC_TRAIT_CIVILIZATION_SOUK_DESCRIPTION"/>
 		<Row TraitType="TRAIT_CIVILIZATION_BUILDING_ARCH" Name="LOC_BUILDING_ARCH_NAME" Description="LOC_BUILDING_ARCH_DESCRIPTION"/>
 		<Row TraitType="TRAIT_CIVILIZATION_UNIT_CONDOTTIERI" Name="LOC_UNIT_CONDOTTIERI_NAME" Description="LOC_UNIT_CONDOTTIERI_DESCRIPTION"/>
+		<Row TraitType="TRAIT_CIVILIZATION_DISTRICT_ITALY_GRANDSQUARE" Name="LOC_DISTRICT_ITALY_GRANDSQUARE_NAME" Description="LOC_DISTRICT_ITALY_GRANDSQUARE_DESCRIPTION"/>
 	</Traits>
-	<TraitModifiers>
-		<Row>
-			<TraitType>TRAIT_CIVILIZATION_SOUK</TraitType>
-			<ModifierId>TRAIT_GOLD_PER_CITY_FOLLOWING_RELIGION</ModifierId>
-		</Row>
-		<Row>
-			<TraitType>TRAIT_CIVILIZATION_SOUK</TraitType>
-			<ModifierId>TRAIT_FLOODPLAINS_COMMERCIALHUB_ADJACENCY</ModifierId>
-		</Row>
-		<Row>
-			<TraitType>TRAIT_CIVILIZATION_SOUK</TraitType>
-			<ModifierId>TRAIT_OASIS_COMMERCIALHUB_ADJACENCY</ModifierId>
-		</Row>
-		<Row>
-			<TraitType>TRAIT_CIVILIZATION_SOUK</TraitType>
-			<ModifierId>TRAIT_FLOODPLAINS_VALID_COMMERCIAL_HUB</ModifierId>
-		</Row>
-	</TraitModifiers>
 	<CivilizationTraits>
-		<Row CivilizationType="CIVILIZATION_ITALY" TraitType="TRAIT_CIVILIZATION_SOUK"/>
 		<Row CivilizationType="CIVILIZATION_ITALY" TraitType="TRAIT_CIVILIZATION_BUILDING_ARCH"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" TraitType="TRAIT_CIVILIZATION_DISTRICT_ITALY_GRANDSQUARE"/>
 		<Row CivilizationType="CIVILIZATION_ITALY" TraitType="TRAIT_CIVILIZATION_UNIT_CONDOTTIERI"/>
 	</CivilizationTraits>
 	<CityNames>
@@ -67,6 +49,9 @@
 		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Lecce"/>
 		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Parma"/>
 	</CityNames>
+	<StartBiasTerrains>
+		<Row CivilizationType="CIVILIZATION_ITALY" TerrainType="TERRAIN_GRASS" Tier="4"/>
+	</StartBiasTerrains>
 	<StartBiasRivers>
 		<Row CivilizationType="CIVILIZATION_ITALY" Tier="5"/>
 	</StartBiasRivers>

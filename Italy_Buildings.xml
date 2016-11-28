@@ -10,6 +10,7 @@
 		<Row BuildingType="BUILDING_ARCH" Name="LOC_BUILDING_ARCH_NAME" Description="LOC_BUILDING_ARCH_DESCRIPTION" PrereqDistrict="DISTRICT_CITY_CENTER" PurchaseYield="YIELD_GOLD" Cost="60"  TraitType="TRAIT_CIVILIZATION_BUILDING_ARCH"/>
 	</Buildings>
 	<Building_YieldChanges>
-		<Row BuildingType="BUILDING_ARCH" YieldType="YIELD_CULTURE" YieldChange="4"/>
+		<Row BuildingType="BUILDING_ARCH" YieldType="YIELD_CULTURE" YieldChange="3"/>
+		<Row BuildingType="BUILDING_ARCH" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
 	</Building_YieldChanges>
 </GameInfo>

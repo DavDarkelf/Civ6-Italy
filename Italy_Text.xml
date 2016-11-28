@@ -13,11 +13,11 @@
       <Text>Albion Lombard</Text>
     </Row>
    <!--Traits -->
-   <Row Tag="LOC_TRAIT_CIVILIZATION_SOUK_NAME" Language="en_US">
-      <Text>Souks of Ta-Netjer</Text>
+   <Row Tag="LOC_DISTRICT_ITALY_GRANDSQUARE_NAME" Language="en_US">
+      <Text>Grand Square</Text>
     </Row>
-    <Row Tag="LOC_TRAIT_CIVILIZATION_SOUK_DESCRIPTION" Language="en_US">
-      <Text>Floodplains do not block placement of commercial hubs, which are provided with an adjacency bonus from all floodplain and oasis tiles. +1 [ICON_Gold] gold for each city following Punt's religion.</Text>
+    <Row Tag="LOC_DISTRICT_ITALY_GRANDSQUARE_DESCRIPTION" Language="en_US">
+      <Text>Grand Squares hold many Cultural Events</Text>
     </Row>
    <Row Tag="LOC_BUILDING_ARCH_NAME" Language="en_US">
       <Text>Triumphal Arch</Text>
@@ -29,7 +29,7 @@
       <Text>Condottieri</Text>
     </Row>
     <Row Tag="LOC_UNIT_CONDOTTIERI_DESCRIPTION" Language="en_US">
-      <Text>The Condottieri are an stronger version of the Pikeman</Text>
+      <Text>The Condottieri are a stronger version of the Pikeman</Text>
     </Row>
 	<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CONDOTTIERI_CHAPTER_HISTORY_PARA_1" Language="en_US">
 	<Text>Condottieri were the leaders of well organised mercenaries in Italy. Their code of military justice imposed discipline and called for an equal division of each contract. They were the first to view warfare from the perspective of military science which led to a depature from chivalry.</Text>
