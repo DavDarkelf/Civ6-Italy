@@ -25,19 +25,19 @@
       <Text>Triumphal Arch</Text>
     </Row>
     <Row Tag="LOC_BUILDING_ARCH_DESCRIPTION" Language="en_US">
-      <Text>Monument replacement which grants double the [ICON_Culture] culture output as the monument</Text>
+      <Text>The Triumphal Arch replaces the monument and grants 3 [ICON_Culture] and 1 [ICON_Gold]</Text>
     </Row>
     <Row Tag="LOC_DISTRICT_ITALY_GRANDSQUARE_NAME" Language="en_US">
       <Text>Grand Square</Text>
     </Row>
     <Row Tag="LOC_DISTRICT_ITALY_GRANDSQUARE_DESCRIPTION" Language="en_US">
-      <Text>Replacement for the Theatre Square</Text>
+      <Text>Grand Square generates double the Great Artist,Musician and Writer points as a Theater District. Also generates 2 Great Merchant points per turn.</Text>
     </Row>
    <Row Tag="LOC_UNIT_CONDOTTIERI_NAME" Language="en_US">
       <Text>Condottieri</Text>
     </Row>
     <Row Tag="LOC_UNIT_CONDOTTIERI_DESCRIPTION" Language="en_US">
-      <Text>The Condottieri is a stronger faster moving replacement for the Pikeman</Text>
+      <Text>The Condottieri is a stronger faster moving replacement for the Pikeman.</Text>
     </Row>
   </LocalizedText>
 </GameData>
