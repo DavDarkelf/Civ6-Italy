@@ -13,12 +13,6 @@
       <Text>Albion Lombard</Text>
     </Row>
    <!--Traits -->
-   <Row Tag="LOC_DISTRICT_ITALY_GRANDSQUARE_NAME" Language="en_US">
-      <Text>Grand Square</Text>
-    </Row>
-    <Row Tag="LOC_DISTRICT_ITALY_GRANDSQUARE_DESCRIPTION" Language="en_US">
-      <Text>Grand Squares hold many Cultural Events and Trade Fairs</Text>
-    </Row>
    <Row Tag="LOC_BUILDING_ARCH_NAME" Language="en_US">
       <Text>Triumphal Arch</Text>
     </Row>

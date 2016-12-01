@@ -4,8 +4,8 @@
 			<Row>
 				<Type>LEADER_ALBION</Type>
 				<Usage>Unique</Usage>
-				<PrimaryColor>COLOR_PLAYER_PUNT_PRIMARY</PrimaryColor>
-				<SecondaryColor>COLOR_PLAYER_PUNT_SECONDARY</SecondaryColor>
+				<PrimaryColor>COLOR_PLAYER_ITALY_PRIMARY</PrimaryColor>
+				<SecondaryColor>COLOR_PLAYER_ITALY_SECONDARY</SecondaryColor>
 				<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
 			</Row>
 	</PlayerColors>
