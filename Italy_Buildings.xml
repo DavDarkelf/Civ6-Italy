@@ -2,15 +2,22 @@
 <GameInfo>
 	<Types>
 		<Row Type="BUILDING_ARCH" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_GRANDSQUARE" Kind="KIND_BUILDING"/>
 	</Types>
 	<BuildingReplaces>
 		<Row CivUniqueBuildingType="BUILDING_ARCH" ReplacesBuildingType="BUILDING_MONUMENT"/>
+		<Row CivUniqueBuildingType="BUILDING_GRANDSQUARE" ReplacesBuildingType="BUILDING_AMPHITHEATER"/>
 	</BuildingReplaces>
 	<Buildings>
 		<Row BuildingType="BUILDING_ARCH" Name="LOC_BUILDING_ARCH_NAME" Description="LOC_BUILDING_ARCH_DESCRIPTION" PrereqDistrict="DISTRICT_CITY_CENTER" PurchaseYield="YIELD_GOLD" Cost="60"  TraitType="TRAIT_CIVILIZATION_BUILDING_ARCH"/>
+		<Row BuildingType="BUILDING_GRANDSQUARE" Name="LOC_BUILDING_GRANDSQUARE_NAME" Description="LOC_BUILDING_GRANDSQUARE_DESCRIPTION" TraitType="TRAIT_CIVILIZATION_BUILDING_GRANDSQUARE" PrereqCivic="CIVIC_DRAMA_POETRY" PrereqDistrict="DISTRICT_THEATER" PurchaseYield="YIELD_GOLD" Cost="135" AdvisorType="ADVISOR_CULTURE" Maintenance="1" CitizenSlots="1"/>
 	</Buildings>
 	<Building_YieldChanges>
 		<Row BuildingType="BUILDING_ARCH" YieldType="YIELD_CULTURE" YieldChange="3"/>
 		<Row BuildingType="BUILDING_ARCH" YieldType="YIELD_GOLD" YieldChange="1"/>
+		<Row BuildingType="BUILDING_GRANDSQUARE" YieldType="YIELD_GOLD" YieldChange="2"/>
 	</Building_YieldChanges>
+	<Building_GreatPersonPoints>
+    <Row BuildingType="BUILDING_GRANDSQUARE" GreatPersonClassType="GREAT_PERSON_CLASS_MERCHANT" PointsPerTurn="1"/>
+  </Building_GreatPersonPoints>
 </GameInfo>

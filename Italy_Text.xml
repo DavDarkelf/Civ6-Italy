@@ -25,6 +25,12 @@
     <Row Tag="LOC_BUILDING_ARCH_DESCRIPTION" Language="en_US">
       <Text>The Triumphal Arch replaces the monument.</Text>
     </Row>
+    <Row Tag="LOC_BUILDING_GRANDSQUARE_NAME" Language="en_US">
+      <Text>Grand Square</Text>
+    </Row>
+    <Row Tag="LOC_BUILDING_GRANDSQUARE_DESCRIPTION" Language="en_US">
+      <Text>The Grand Square replaces the Amphitheater and provides gold from the markets held there.</Text>
+    </Row>
    <Row Tag="LOC_UNIT_CONDOTTIERI_NAME" Language="en_US">
       <Text>Condottieri</Text>
     </Row>
