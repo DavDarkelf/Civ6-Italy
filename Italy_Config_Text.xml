@@ -31,7 +31,7 @@
       <Text>Condottieri</Text>
     </Row>
     <Row Tag="LOC_UNIT_CONDOTTIERI_DESCRIPTION" Language="en_US">
-      <Text>The Condottieri is a stronger faster moving replacement for the Pikeman.</Text>
+      <Text>The Condottieri is a stronger replacement for the Knight.</Text>
     </Row>
   </LocalizedText>
 </GameData>

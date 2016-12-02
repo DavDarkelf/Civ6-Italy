@@ -23,7 +23,7 @@
       <Text>Condottieri</Text>
     </Row>
     <Row Tag="LOC_UNIT_CONDOTTIERI_DESCRIPTION" Language="en_US">
-      <Text>The Condottieri are a stronger version of the Pikeman</Text>
+      <Text>The Condottieri are a stronger version of the Knight.</Text>
     </Row>
 	<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CONDOTTIERI_CHAPTER_HISTORY_PARA_1" Language="en_US">
 	<Text>Condottieri were the leaders of well organised mercenaries in Italy. Their code of military justice imposed discipline and called for an equal division of each contract. They were the first to view warfare from the perspective of military science which led to a depature from chivalry.</Text>
