@@ -9,11 +9,11 @@
       <Text>Albion Lombard</Text>
     </Row>
    <!--Traits -->
-   <Row Tag="LOC_TRAIT_CIVILIZATION_TODO_NAME" Language="en_US">
-      <Text>Souks of Ta-Netjer</Text>
+   <Row Tag="LOC_TRAIT_CIVILIZATION_LUXURYTRADE_NAME" Language="en_US">
+      <Text>Bounty of Luxuries</Text>
     </Row>
-    <Row Tag="LOC_TRAIT_CIVILIZATION_TODO_DESCRIPTION" Language="en_US">
-      <Text>Floodplains do not block placement of commercial hubs, which are provided with an adjacency bonus from all floodplain and oasis tiles. +1 [ICON_Gold] gold for each city following Punt's religion.</Text>
+    <Row Tag="LOC_TRAIT_CIVILIZATION_LUXURYTRADE_DESCRIPTION" Language="en_US">
+      <Text>All Luxuries owned by Italy spread to 4 more cities than usual.</Text>
     </Row>
     <Row Tag="LOC_TRAIT_LEADER_KINGALBION_NAME" Language="en_US">
       <Text>King of Lombards</Text>

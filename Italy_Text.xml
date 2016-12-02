@@ -13,6 +13,12 @@
       <Text>Albion Lombard</Text>
     </Row>
    <!--Traits -->
+   <Row Tag="LOC_TRAIT_CIVILIZATION_LUXURYTRADE_NAME" Language="en_US">
+      <Text>Bounty of Luxuries</Text>
+    </Row>
+    <Row Tag="LOC_TRAIT_CIVILIZATION_LUXURYTRADE_DESCRIPTION" Language="en_US">
+      <Text>All Luxuries owned by Italy spread to 4 more cities than usual.</Text>
+    </Row>
    <Row Tag="LOC_BUILDING_ARCH_NAME" Language="en_US">
       <Text>Triumphal Arch</Text>
     </Row>
