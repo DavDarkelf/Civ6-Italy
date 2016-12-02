@@ -23,7 +23,7 @@
       <Text>Triumphal Arch</Text>
     </Row>
     <Row Tag="LOC_BUILDING_ARCH_DESCRIPTION" Language="en_US">
-      <Text>The Triumphal Arch replaces the monument and grants 3 [ICON_Culture] and 1 [ICON_Gold]</Text>
+      <Text>The Triumphal Arch replaces the monument.</Text>
     </Row>
    <Row Tag="LOC_UNIT_CONDOTTIERI_NAME" Language="en_US">
       <Text>Condottieri</Text>
