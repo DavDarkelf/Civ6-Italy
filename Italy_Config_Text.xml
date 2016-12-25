@@ -5,20 +5,20 @@
     <Row Tag="LOC_CIVILIZATION_ITALY_NAME" Language="en_US">
       <Text>Italy</Text>
     </Row>
-    <Row Tag="LOC_LEADER_ALBION_NAME" Language="en_US">
-      <Text>Albion Lombard</Text>
+    <Row Tag="LOC_LEADER_ALBOIN_NAME" Language="en_US">
+      <Text>Alboin Lombard</Text>
     </Row>
    <!--Traits -->
    <Row Tag="LOC_TRAIT_CIVILIZATION_LUXURYTRADE_NAME" Language="en_US">
       <Text>Bounty of Luxuries</Text>
     </Row>
     <Row Tag="LOC_TRAIT_CIVILIZATION_LUXURYTRADE_DESCRIPTION" Language="en_US">
-      <Text>All Luxuries owned by Italy spread to 4 more cities than usual.</Text>
+      <Text>All Luxuries owned by Italy spread to six more cities than usual.</Text>
     </Row>
-    <Row Tag="LOC_TRAIT_LEADER_KINGALBION_NAME" Language="en_US">
+    <Row Tag="LOC_TRAIT_LEADER_KINGALBOIN_NAME" Language="en_US">
       <Text>King of Lombards</Text>
     </Row>
-    <Row Tag="LOC_TRAIT_LEADER_KINGALBION_DESCRIPTION" Language="en_US">
+    <Row Tag="LOC_TRAIT_LEADER_KINGALBOIN_DESCRIPTION" Language="en_US">
       <Text>Gains an additional wildcard government slot.</Text>
     </Row>
    <Row Tag="LOC_BUILDING_ARCH_NAME" Language="en_US">
