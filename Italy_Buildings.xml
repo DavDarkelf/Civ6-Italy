@@ -13,8 +13,8 @@
 		<Row BuildingType="BUILDING_GRANDSQUARE" Name="LOC_BUILDING_GRANDSQUARE_NAME" Description="LOC_BUILDING_GRANDSQUARE_DESCRIPTION" TraitType="TRAIT_CIVILIZATION_BUILDING_GRANDSQUARE" PrereqCivic="CIVIC_DRAMA_POETRY" PrereqDistrict="DISTRICT_THEATER" PurchaseYield="YIELD_GOLD" Cost="135" AdvisorType="ADVISOR_CULTURE" Maintenance="1" CitizenSlots="1"/>
 	</Buildings>
 	<Building_YieldChanges>
-		<Row BuildingType="BUILDING_ARCH" YieldType="YIELD_CULTURE" YieldChange="4"/>
-		<Row BuildingType="BUILDING_ARCH" YieldType="YIELD_GOLD" YieldChange="2"/>
+		<Row BuildingType="BUILDING_ARCH" YieldType="YIELD_CULTURE" YieldChange="3"/>
+		<Row BuildingType="BUILDING_ARCH" YieldType="YIELD_GOLD" YieldChange="1"/>
 		<Row BuildingType="BUILDING_GRANDSQUARE" YieldType="YIELD_GOLD" YieldChange="2"/>
 	</Building_YieldChanges>
 	<Building_GreatPersonPoints>

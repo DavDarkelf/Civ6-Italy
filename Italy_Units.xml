@@ -13,6 +13,6 @@
 		<Row CivUniqueUnitType="UNIT_CONDOTTIERI" ReplacesUnitType="UNIT_KNIGHT"/>
 	</UnitReplaces>
   	<Units>
-		<Row UnitType="UNIT_CONDOTTIERI" BaseMoves="4" Cost="180" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2" ZoneOfControl="true" Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_LAND_COMBAT" Name="LOC_UNIT_CONDOTTIERI_NAME" Description="LOC_UNIT_CONDOTTIERI_DESCRIPTION" PurchaseYield="YIELD_GOLD"  TraitType="TRAIT_CIVILIZATION_UNIT_CONDOTTIERI" PromotionClass="PROMOTION_CLASS_HEAVY_CAVALRY" Maintenance="3" Combat="60" PrereqTech="TECH_STIRRUPS" StrategicResource="RESOURCE_IRON" MandatoryObsoleteTech="TECH_COMPOSITES"/>
+		<Row UnitType="UNIT_CONDOTTIERI" BaseMoves="5" Cost="180" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2" ZoneOfControl="true" Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_LAND_COMBAT" Name="LOC_UNIT_CONDOTTIERI_NAME" Description="LOC_UNIT_CONDOTTIERI_DESCRIPTION" PurchaseYield="YIELD_GOLD"  TraitType="TRAIT_CIVILIZATION_UNIT_CONDOTTIERI" PromotionClass="PROMOTION_CLASS_HEAVY_CAVALRY" Maintenance="4" Combat="52" PrereqTech="TECH_STIRRUPS" StrategicResource="RESOURCE_IRON" MandatoryObsoleteTech="TECH_COMPOSITES"/>
   	</Units>
 </GameInfo>
