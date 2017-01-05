@@ -10,30 +10,35 @@
 	<Components>
 		<UpdateDatabase id="ITALY_COMPONENT">
 			<Items>
-				<File>Italy_Buildings.xml</File>
-				<File>Italy_Civilizations.xml</File>
-				<File>Italy_Colours.xml</File>
-				<File>Italy_Gossip.xml</File>
-				<File>Italy_Leaders.xml</File>
-				<File>Italy_PlayerColours.xml</File>
-				<File>Italy_Units.xml</File>
+				<File>Data/Italy_Buildings.xml</File>
+				<File>Data/Italy_Civilizations.xml</File>
+				<File>Data/Italy_Colours.xml</File>
+				<File>Data/Italy_Gossip.xml</File>
+				<File>Data/Italy_Leaders.xml</File>
+				<File>Data/Italy_PlayerColours.xml</File>
+				<File>Data/Italy_Units.xml</File>
 			</Items>
 		</UpdateDatabase>
+		<ModArt id="ItalyModArt">
+			<Items>
+				<File>Italy.dep</File>
+			</Items>
+		</ModArt>
 		<LocalizedText id="ITALY_TEXT">
 			<Items>
-				<File>Italy_Text.xml</File>
+				<File>Data/Italy_Text.xml</File>
 			</Items>
 		</LocalizedText>
 	</Components>
 	<Settings>
 		<Custom id="ITALY_SETTING">
 			<Items>
-				<File>Italy_Config.xml</File>
+				<File>Data/Italy_Config.xml</File>
 			</Items>
 		</Custom>
 		<LocalizedText id="ITALY_SETTING_TEXT">
 			<Items>
-				<File>Italy_Config_Text.xml</File>
+				<File>Data/Italy_Config_Text.xml</File>
 			</Items>
 		</LocalizedText>
 	</Settings>
@@ -55,15 +60,16 @@
 		</Text>
 	</LocalizedText>
 	<Files>
-		<File>Italy_Buildings.xml</File>
-		<File>Italy_Config.xml</File>
-		<File>Italy_Config_Text.xml</File>
-		<File>Italy_Civilizations.xml</File>
-		<File>Italy_Colours.xml</File>
-		<File>Italy_Gossip.xml</File>
-		<File>Italy_Leaders.xml</File>
-		<File>Italy_PlayerColours.xml</File>
-		<File>Italy_Text.xml</File>
-		<File>Italy_Units.xml</File>
+		<File>Italy.dep</Files>
+		<File>Data/Italy_Buildings.xml</File>
+		<File>Data/Italy_Config.xml</File>
+		<File>Data/Italy_Config_Text.xml</File>
+		<File>Data/Italy_Civilizations.xml</File>
+		<File>Data/Italy_Colours.xml</File>
+		<File>Data/Italy_Gossip.xml</File>
+		<File>Data/Italy_Leaders.xml</File>
+		<File>Data/Italy_PlayerColours.xml</File>
+		<File>Data/Italy_Text.xml</File>
+		<File>Data/Italy_Units.xml</File>
 	</Files>
 </Mod>

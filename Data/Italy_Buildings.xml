@@ -17,7 +17,11 @@
 		<Row BuildingType="BUILDING_ARCH" YieldType="YIELD_GOLD" YieldChange="1"/>
 		<Row BuildingType="BUILDING_GRANDSQUARE" YieldType="YIELD_GOLD" YieldChange="2"/>
 	</Building_YieldChanges>
+	<Building_GreatWorks>
+	<Row BuildingType="BUILDING_GRANDSQUARE" GreatWorkSlotType="GREATWORKSLOT_WRITING" NumSlots="2"/>
+	</Building_GreatWorks>
 	<Building_GreatPersonPoints>
     <Row BuildingType="BUILDING_GRANDSQUARE" GreatPersonClassType="GREAT_PERSON_CLASS_MERCHANT" PointsPerTurn="1"/>
+	<Row BuildingType="BUILDING_GRANDSQUARE" GreatPersonClassType="GREAT_PERSON_CLASS_WRITER" PointsPerTurn="1"/>
   </Building_GreatPersonPoints>
 </GameInfo>
