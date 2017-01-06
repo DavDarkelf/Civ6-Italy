@@ -5,13 +5,13 @@
         <name text="Civ6-Italy"/>
         <id text="282411C8-CH19-F8g3-4BF6-9C5jjB933Bh8"/>
     </ID>
-    <SystemDependencies>
+  <!--  <SystemDependencies>
         <Element>
-            <!-- The type of thing you are adding -->
             <ConsumerName text="Units"/>
             <ArtDefDependencyPaths>
                 <Element text="Units.artdef"/>
             </ArtDefDependencyPaths>
         </Element>
     </SystemDependencies>
+    -->
 </AssetObjects::GameDependencyData>

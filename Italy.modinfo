@@ -19,7 +19,7 @@
 				<File>Data/Italy_Units.xml</File>
 			</Items>
 		</UpdateDatabase>
-		<ModArt id="ItalyModArt">
+		<ModArt id="ITALY_MODART">
 			<Items>
 				<File>Italy.dep</File>
 			</Items>
@@ -30,6 +30,7 @@
 			</Items>
 		</LocalizedText>
 	</Components>
+
 	<Settings>
 		<Custom id="ITALY_SETTING">
 			<Items>
@@ -42,12 +43,13 @@
 			</Items>
 		</LocalizedText>
 	</Settings>
+
 	<LocalizedText>
 		<Text id="LOC_MOD_TITLE">
 			<en_US>Italian civilization</en_US>
 		</Text>
 		<Text id="LOC_MOD_TEASER">
-			<en_US>Play as Alboin Lombard of the early Italian civilization</en_US>
+			<en_US>Play As Alboin of the Lombards</en_US>
 		</Text>
 		<Text id="LOC_MOD_DESCRIPTION">
 			<en_US>A full civilization with its own uniques</en_US>
@@ -56,11 +58,11 @@
 			<en_US>David Harper</en_US>
 		</Text>
 		<Text id="LOC_MOD_SPECIAL_THANKS">
-			<en_US>Rob Riley and Firaxis</en_US>
+			<en_US>Rob Riley</en_US>
 		</Text>
 	</LocalizedText>
 	<Files>
-		<File>Italy.dep</Files>
+		<File>Italy.dep</Files> 
 		<File>Data/Italy_Buildings.xml</File>
 		<File>Data/Italy_Config.xml</File>
 		<File>Data/Italy_Config_Text.xml</File>
