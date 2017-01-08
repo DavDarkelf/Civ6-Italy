@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <AssetObjects::ArtDefSet>
 	<m_Version>
-		<major>3</major>
+		<major>4</major>
 		<minor>0</minor>
-		<build>211</build>
-		<revision>236</revision>
+		<build>238</build>
+		<revision>243</revision>
 	</m_Version>
 	<m_TemplateName text="Units"/>
-	<m_RootCollections>
+		<m_RootCollections>
 		<Element>
 				<m_Fields>
 					<m_Values>
@@ -15,8 +15,8 @@
 							<m_ElementName text="Horsemen"/>
 							<m_RootCollectionName text="UnitFormationTypes"/>
 							<m_ArtDefPath text="Units.artdef"/>
-							<m_CollectionIsLocked>true</m_CollectionIsLocked>
-							<m_TemplateName text="Units"/>
+							<m_CollectionIsLocked>false</m_CollectionIsLocked>
+							<m_TemplateName text=""/>
 							<m_ParamName text="Formation"/>
 						</Element>
 						<Element class="AssetObjects::ArtDefReferenceValue">
@@ -96,18 +96,17 @@
 										<m_ParamName text="Count"/>
 									</Element>
 									<Element class="AssetObjects::ArtDefReferenceValue">
-										<m_ElementName text="Knight"/>
+										<m_ElementName text="Horseman"/>
 										<m_RootCollectionName text="UnitMemberTypes"/>
 										<m_ArtDefPath text="Units.artdef"/>
-										<m_CollectionIsLocked>true</m_CollectionIsLocked>
-										<m_TemplateName text="Units"/>
+										<m_CollectionIsLocked>false</m_CollectionIsLocked>
+										<m_TemplateName text=""/>
 										<m_ParamName text="Type"/>
 									</Element>
 								</m_Values>
 							</m_Fields>
 							<m_ChildCollections/>
-							<m_Name text="Members001"/>
-							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+							<m_Name text="Members1"/>
 						</Element>
 					</Element>
 					<Element>
@@ -116,19 +115,31 @@
 							<m_Fields>
 								<m_Values>
 									<Element class="AssetObjects::StringValue">
-										<m_Value text="Knight"/>
+										<m_Value text=""/>
+										<m_ParamName text="XrefName"/>
+									</Element>
+								</m_Values>
+							</m_Fields>
+							<m_ChildCollections/>
+							<m_Name text=""/>
+						</Element>
+						<Element>
+							<m_Fields>
+								<m_Values>
+									<Element class="AssetObjects::StringValue">
+										<m_Value text="Horseman"/>
 										<m_ParamName text="XrefName"/>
 									</Element>
 								</m_Values>
 							</m_Fields>
 							<m_ChildCollections/>
 							<m_Name text="KNIGHT"/>
-							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
 					</Element>
 				</m_ChildCollections>
 				<m_Name text="UNIT_CONDOTTIERI"/>
-				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
-	<m_RootCollections>
+		</m_RootCollections>
+	<m_BLPReferences/>
 </AssetObjects::ArtDefSet>
+
