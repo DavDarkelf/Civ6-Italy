@@ -7,7 +7,9 @@
 		<revision>243</revision>
 	</m_Version>
 	<m_TemplateName text="Units"/>
-		<m_RootCollections>
+	<m_RootCollections>
+		<Element>
+		<m_CollectionName text="Units"/>				
 		<Element>
 				<m_Fields>
 					<m_Values>
@@ -96,7 +98,7 @@
 										<m_ParamName text="Count"/>
 									</Element>
 									<Element class="AssetObjects::ArtDefReferenceValue">
-										<m_ElementName text="Horseman"/>
+										<m_ElementName text="Knight"/>
 										<m_RootCollectionName text="UnitMemberTypes"/>
 										<m_ArtDefPath text="Units.artdef"/>
 										<m_CollectionIsLocked>false</m_CollectionIsLocked>
@@ -127,18 +129,19 @@
 							<m_Fields>
 								<m_Values>
 									<Element class="AssetObjects::StringValue">
-										<m_Value text="Horseman"/>
+										<m_Value text="Knight"/>
 										<m_ParamName text="XrefName"/>
 									</Element>
 								</m_Values>
 							</m_Fields>
 							<m_ChildCollections/>
-							<m_Name text="KNIGHT"/>
+							<m_Name text=""/>
 						</Element>
 					</Element>
 				</m_ChildCollections>
 				<m_Name text="UNIT_CONDOTTIERI"/>
 			</Element>
+		</Element>
 		</m_RootCollections>
 	<m_BLPReferences/>
 </AssetObjects::ArtDefSet>
