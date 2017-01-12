@@ -8,6 +8,11 @@
 		<SpecialThanks>LOC_MOD_SPECIAL_THANKS</SpecialThanks>
 	</Properties>
 	<Components>
+		<Icons id="ITALY_CIV_Icons">
+			<Items>
+				<File>Data/Italy_Icons.xml</File>
+			</Items>
+		</Icons>
 		<UpdateDatabase id="ITALY_COMPONENT">
 			<Items>
 				<File>Data/Italy_Buildings.xml</File>
@@ -17,6 +22,7 @@
 				<File>Data/Italy_Leaders.xml</File>
 				<File>Data/Italy_PlayerColours.xml</File>
 				<File>Data/Italy_Units.xml</File>
+				<File>Data/Italy_Icons.xml</File>
 			</Items>
 		</UpdateDatabase>
 		<ModArt id="ITALY_MODART">
@@ -30,8 +36,12 @@
 			</Items>
 		</LocalizedText>
 	</Components>
-
 	<Settings>
+		<Icons id="ITALY_CIV_Icons">
+			<Items>
+				<File>Data/Italy_Icons.xml</File>
+			</Items>
+		</Icons>
 		<Custom id="ITALY_SETTING">
 			<Items>
 				<File>Data/Italy_Config.xml</File>
@@ -43,7 +53,6 @@
 			</Items>
 		</LocalizedText>
 	</Settings>
-
 	<LocalizedText>
 		<Text id="LOC_MOD_TITLE">
 			<en_US>Italian civilization</en_US>
@@ -62,7 +71,7 @@
 		</Text>
 	</LocalizedText>
 	<Files>
-		<File>Italy.dep</Files> 
+		<File>Italy.dep</File>
 		<File>Data/Italy_Buildings.xml</File>
 		<File>Data/Italy_Config.xml</File>
 		<File>Data/Italy_Config_Text.xml</File>
@@ -73,5 +82,6 @@
 		<File>Data/Italy_PlayerColours.xml</File>
 		<File>Data/Italy_Text.xml</File>
 		<File>Data/Italy_Units.xml</File>
+		<File>Data/Italy_Icons.xml</File>
 	</Files>
 </Mod>

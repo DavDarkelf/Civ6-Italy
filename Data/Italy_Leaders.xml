@@ -3,7 +3,6 @@
 	<Types>
 		<Row Type="LEADER_ALBOIN" Kind="KIND_LEADER"/>
 		<Row Type="TRAIT_LEADER_KINGALBOIN" Kind="KIND_TRAIT"/>
-		<Row Type="TRAIT_LEADER_LUXURYTRADE" Kind="KIND_TRAIT"/>
 	</Types>
 	<Leaders>
 		<Row LeaderType="LEADER_ALBOIN" Name="LOC_LEADER_ALBOIN_NAME" InheritFrom="LEADER_DEFAULT" SceneLayers="4"/>
@@ -13,20 +12,14 @@
 	</LeaderTraits>
 	<Traits>
 		<Row TraitType="TRAIT_LEADER_KINGALBOIN" Name="LOC_TRAIT_LEADER_KINGALBOIN_NAME" Description="LOC_TRAIT_LEADER_KINGALBOIN_DESCRIPTION"/>
-		<Row TraitType="TRAIT_LEADER_LUXURYTRADE" Name="LOC_TRAIT_LEADER_LUXURYTRADE_NAME" Description="LOC_TRAIT_LEADER_LUXURYTRADE_DESCRIPTION"/>
 	</Traits>
 	<TraitModifiers>
 		<Row TraitType="TRAIT_LEADER_KINGALBOIN" ModifierId="TRAIT_WILDCARD_GOVERNMENT_SLOT"/>
-		<Row TraitType="TRAIT_LEADER_LUXURYTRADE" ModifierId="TRAIT_LUXURY_BONUS"/>
 	</TraitModifiers>
 	<Modifiers>
 		<Row>
 			<ModifierId>TRAIT_WILDCARD_GOVERNMENT_SLOT</ModifierId>
 			<ModifierType>MODIFIER_PLAYER_CULTURE_ADJUST_GOVERNMENT_SLOTS_MODIFIER</ModifierType>
-		</Row>
-		<Row>
-			<ModifierId>TRAIT_LUXURY_BONUS</ModifierId>
-			<ModifierType>MODIFIER_PLAYER_OWNED_LUXURY_EXTRA_AMENITIES</ModifierType>
 		</Row>
 	</Modifiers>
 	<ModifierArguments>
@@ -34,11 +27,6 @@
 			<ModifierId>TRAIT_WILDCARD_GOVERNMENT_SLOT</ModifierId>
 			<Name>GovernmentSlotType</Name>
 			<Value>SLOT_WILDCARD</Value>
-		</Row>
-		<Row>
-			<ModifierId>TRAIT_LUXURY_BONUS</ModifierId>
-			<Name>Amount</Name>
-			<Value>6</Value>
 		</Row>
 	</ModifierArguments>
 </GameInfo>

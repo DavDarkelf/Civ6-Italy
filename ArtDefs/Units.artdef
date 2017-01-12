@@ -9,8 +9,8 @@
 	<m_TemplateName text="Units"/>
 	<m_RootCollections>
 		<Element>
-		<m_CollectionName text="Units"/>				
-		<Element>
+			<m_CollectionName text="Units"/>
+			<Element>
 				<m_Fields>
 					<m_Values>
 						<Element class="AssetObjects::ArtDefReferenceValue">
@@ -142,7 +142,6 @@
 				<m_Name text="UNIT_CONDOTTIERI"/>
 			</Element>
 		</Element>
-		</m_RootCollections>
+	</m_RootCollections>
 	<m_BLPReferences/>
 </AssetObjects::ArtDefSet>
-

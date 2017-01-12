@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameInfo>
+  <IconDefinitions>
+    <Row Name="ICON_CIVILIZATION_ITALY" Atlas="ICON_ATLAS_CIVILIZATIONS" Index="15"/>
+    <Row Name="ICON_LEADER_ALBOIN" Atlas="ICON_ATLAS_LEADERS" Index="5"/>   <!--Gilgamesh-->
+    <Row Name="ICON_BUILDING_ARCH" Atlas="ICON_ATLAS_BUILDINGS" Index="5"/> <!--Shrine-->
+     <Row Name="ICON_BUILDING_GRANDSQUARE" Atlas="ICON_ATLAS_BUILDINGS" Index="16"/> <!--Ampitheater -->
+    <Row Name="ICON_UNIT_CONDOTTIERI" Atlas="ICON_ATLAS_UNITS" Index="45"/> <!--Knight-->
+    <Row Name="ICON_UNIT_CONDOTTIERI_PORTRAIT" Atlas="ICON_ATLAS_UNIT_PORTRAITS" Index="43"/>
+  </IconDefinitions>
+</GameInfo>  

@@ -17,7 +17,7 @@
       <Text>Bounty of Luxuries</Text>
     </Row>
     <Row Tag="LOC_TRAIT_CIVILIZATION_LUXURYTRADE_DESCRIPTION" Language="en_US">
-      <Text>All Luxuries owned by Italy spread to six more cities than usual.</Text>
+      <Text>All Luxuries owned by Italy spread to six cities.</Text>
     </Row>
    <Row Tag="LOC_BUILDING_ARCH_NAME" Language="en_US">
       <Text>Triumphal Arch</Text>
