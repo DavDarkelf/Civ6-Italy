@@ -14,17 +14,17 @@
 		<Row TraitType="TRAIT_LEADER_KINGALBOIN" Name="LOC_TRAIT_LEADER_KINGALBOIN_NAME" Description="LOC_TRAIT_LEADER_KINGALBOIN_DESCRIPTION"/>
 	</Traits>
 	<TraitModifiers>
-		<Row TraitType="TRAIT_LEADER_KINGALBOIN" ModifierId="TRAIT_WILDCARD_GOVERNMENT_SLOT"/>
+		<Row TraitType="TRAIT_LEADER_KINGALBOIN" ModifierId="TRAIT_ITALY_EXTRA_WILDCARD_GOVERNMENT_SLOT"/>
 	</TraitModifiers>
 	<Modifiers>
 		<Row>
-			<ModifierId>TRAIT_WILDCARD_GOVERNMENT_SLOT</ModifierId>
+			<ModifierId>TRAIT_ITALY_EXTRA_WILDCARD_GOVERNMENT_SLOT</ModifierId>
 			<ModifierType>MODIFIER_PLAYER_CULTURE_ADJUST_GOVERNMENT_SLOTS_MODIFIER</ModifierType>
 		</Row>
 	</Modifiers>
 	<ModifierArguments>
 		<Row>
-			<ModifierId>TRAIT_WILDCARD_GOVERNMENT_SLOT</ModifierId>
+			<ModifierId>TRAIT_ITALY_EXTRA_WILDCARD_GOVERNMENT_SLOT</ModifierId>
 			<Name>GovernmentSlotType</Name>
 			<Value>SLOT_WILDCARD</Value>
 		</Row>
