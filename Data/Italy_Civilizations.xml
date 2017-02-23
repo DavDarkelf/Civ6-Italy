@@ -11,7 +11,7 @@
 		<Row CivilizationType="CIVILIZATION_ITALY" Name="LOC_CIVILIZATION_ITALY_NAME" Description="LOC_CIVILIZATION_ITALY_DESCRIPTION" Adjective="LOC_CIVILIZATION_ITALY_ADJECTIVE" StartingCivilizationLevelType="CIVILIZATION_LEVEL_FULL_CIV" RandomCityNameDepth="3" Ethnicity="ETHNICITY_MEDIT"/>
 	</Civilizations>
 	<CivilizationLeaders>
-		<Row CivilizationType="CIVILIZATION_ITALY" LeaderType="LEADER_ALBOIN" CapitalName="Rome"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" LeaderType="LEADER_ALBOIN" CapitalName="Turin"/>
 	</CivilizationLeaders>
 	<Traits>
 		<Row TraitType="TRAIT_CIVILIZATION_LUXURYTRADE" Name="LOC_TRAIT_CIVILIZATION_LUXURYTRADE_NAME" Description="LOC_TRAIT_CIVILIZATION_LUXURYTRADE_DESCRIPTION"/>
@@ -43,10 +43,9 @@
 	</ModifierArguments>
 
 	<CityNames>
-		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Rome"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Turin"/>
 		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Milan"/>
 		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Naples"/>
-		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Turin"/>
 		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Venice"/>
 		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Florence"/>
 		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Bari"/>
@@ -58,7 +57,6 @@
 		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Rimini"/>
 		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Bologna"/>
 		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Modena"/>
-		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Verona"/>
 		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Pescara"/>
 		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Vicenza"/>
 		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Cagliari"/>
