@@ -18,6 +18,7 @@
 				<File>Data/Italy_Buildings.xml</File>
 				<File>Data/Italy_Civilizations.xml</File>
 				<File>Data/Italy_Colours.xml</File>
+				<File>Data/Italy_GamePlay.xml</File>
 				<File>Data/Italy_Gossip.xml</File>
 				<File>Data/Italy_Leaders.xml</File>
 				<File>Data/Italy_PlayerColours.xml</File>
@@ -25,6 +26,14 @@
 				<File>Data/Italy_Icons.xml</File>
 			</Items>
 		</UpdateDatabase>
+		<ImportFiles id="ITALY_CIV_IMPORT">
+			<Items>
+				<!-- Loading and Diplomacy Screens -->
+				<File>Art/Screens/albion.dds</File>
+				<File>Art/Screens/diplomacy_lombard.dds</File>
+				<File>Art/Screens/lombard.dds</File>
+			</Items>
+		</ImportFiles>
 		<ModArt id="ITALY_MODART">
 			<Items>
 				<File>Italy.dep</File>
@@ -77,11 +86,15 @@
 		<File>Data/Italy_Config_Text.xml</File>
 		<File>Data/Italy_Civilizations.xml</File>
 		<File>Data/Italy_Colours.xml</File>
+		<File>Data/Italy_GamePlay.xml</File>
 		<File>Data/Italy_Gossip.xml</File>
 		<File>Data/Italy_Leaders.xml</File>
 		<File>Data/Italy_PlayerColours.xml</File>
 		<File>Data/Italy_Text.xml</File>
 		<File>Data/Italy_Units.xml</File>
 		<File>Data/Italy_Icons.xml</File>
+		<File>Art/Screens/albion.dds</File>
+		<File>Art/Screens/diplomacy_lombard.dds</File>
+		<File>Art/Screens/lombard.dds</File>
 	</Files>
 </Mod>

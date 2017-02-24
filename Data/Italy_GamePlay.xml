@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameInfo>
+  <LoadingInfo>
+        <!-- BackgroundImage = top left / ForegroundImage = middle right -->
+        <Row LeaderType="LEADER_ALBOIN"     ForegroundImage="albion.dds"    BackgroundImage="lombard.dds"    EraText="LOC_LOADING_INFO_LEADER_DEFAULT" PlayDawnOfManAudio="0"/>
+   </LoadingInfo>
+    <DiplomacyInfo>
+        <Row Type="LEADER_ALBOIN"     BackgroundImage="diplomacy_lombard.dds"/>
+    </DiplomacyInfo>
+</GameInfo>

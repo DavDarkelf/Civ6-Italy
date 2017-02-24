@@ -12,5 +12,26 @@
                 <Element text="Units.artdef"/>
             </ArtDefDependencyPaths>
         </Element>
+        <Element>
+				<ConsumerName text="Leaders"/>
+				<ArtDefDependencyPaths>
+			  	<Element text="Leaders.artdef"/>
+				</ArtDefDependencyPaths>
+				<LibraryDependencies>
+			  	<Element text="Leader"/>
+			  	<Element text="LeaderLighting"/>
+				</LibraryDependencies>
+				<LoadsLibraries>true</LoadsLibraries>
+			</Element>	  
+			<Element>
+				<ConsumerName text="LeaderFallback"/>
+				<ArtDefDependencyPaths>
+			  	<Element text="FallbackLeaders.artdef"/>
+				</ArtDefDependencyPaths>
+				<LibraryDependencies>
+			  	<Element text="LeaderFallback"/>
+				</LibraryDependencies>
+				<LoadsLibraries>true</LoadsLibraries>
+			</Element>
     </SystemDependencies>
 </AssetObjects::GameDependencyData>

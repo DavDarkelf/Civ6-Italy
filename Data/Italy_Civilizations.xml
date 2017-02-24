@@ -11,7 +11,7 @@
 		<Row CivilizationType="CIVILIZATION_ITALY" Name="LOC_CIVILIZATION_ITALY_NAME" Description="LOC_CIVILIZATION_ITALY_DESCRIPTION" Adjective="LOC_CIVILIZATION_ITALY_ADJECTIVE" StartingCivilizationLevelType="CIVILIZATION_LEVEL_FULL_CIV" RandomCityNameDepth="3" Ethnicity="ETHNICITY_MEDIT"/>
 	</Civilizations>
 	<CivilizationLeaders>
-		<Row CivilizationType="CIVILIZATION_ITALY" LeaderType="LEADER_ALBOIN" CapitalName="Turin"/>
+		<Row CivilizationType="CIVILIZATION_ITALY" LeaderType="LEADER_ALBOIN" CapitalName="Pavia"/>
 	</CivilizationLeaders>
 	<Traits>
 		<Row TraitType="TRAIT_CIVILIZATION_LUXURYTRADE" Name="LOC_TRAIT_CIVILIZATION_LUXURYTRADE_NAME" Description="LOC_TRAIT_CIVILIZATION_LUXURYTRADE_DESCRIPTION"/>
@@ -43,6 +43,7 @@
 	</ModifierArguments>
 
 	<CityNames>
+		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Pavia"/>
 		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Turin"/>
 		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Milan"/>
 		<Row CivilizationType="CIVILIZATION_ITALY" CityName="Naples"/>
